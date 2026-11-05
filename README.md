@@ -74,7 +74,7 @@ git push
 
 **Assignment** (2 or 3 sentences): pick one race. What does the race trace show that a plain chart of lap times would hide?
 
->
+> Since race traces show the relative positions of drivers to one another instead of just lap times, we can see specific slowdowns, including for specific drivers. For instance, for the British Grand Prix 2025, we can see that at the very end of the race, PIA took a pit stop right before the winner, NOR, took a pit stop, but because the winner's took slightly less time, ultimately he won the race.
 
 **Bonus** (optional): which race did you add, and why?
 
